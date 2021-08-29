@@ -1,0 +1,58 @@
+header{
+    padding: 10px;
+    margin-bottom: -25px;
+    background-color: #006D77;
+    background-repeat: repeat;
+}
+.topnav{
+    text-align: right;
+    margin-top: -15px;
+    padding-top: 0px;
+}
+
+.topnav a{
+    padding: 30px;
+    text-align: right;
+    color: white;
+    font-size: 25px;
+    text-decoration: none;
+}
+header img{
+    background-color: #cccccc;
+    color: #cccccc;
+}
+#mid {
+    background: url(https://cdn.pixabay.com/photo/2014/05/02/21/50/laptop-336378_960_720.jpg) no-repeat bottom center ;
+    opacity: 0.85;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 1080px;
+    text-align: center;
+}
+#mid p{
+    padding-top: 70%;
+    font-size: 25px;
+    color: black;
+    width: 50%;
+    text-align: center;
+    margin-left: 300px;
+}
+#words a{
+    padding: 15px;
+    color: white;
+    font-size: 15px;
+    text-decoration: none;
+    padding-bottom: 20px;
+}
+footer {
+    width: 100%;
+    background-color: #006D77;
+    display: flex;
+}
+#social{
+   text-align: center;
+    padding: 20px;
+}
+*{
+    font-family: 'Poppins', sans-serif;
+    }
